@@ -82,7 +82,6 @@ $mahasiswa = [
             <h1 class="fw-bold text-white">Daftar Mahasiswa</h1>
             <p class="text-muted">Mini Website PHP dasar</p>
         </div>
-        <!-- Tombol menuju Form (Metode POST) -->
         <a href="form.php" class="btn btn-primary">Isi Form Pesan</a>
         </div>
 
